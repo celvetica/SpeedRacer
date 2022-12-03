@@ -1,0 +1,12 @@
+## Title: SpeedRacer
+## Notes: Dragon Racing Timer
+## Author: Cel
+## Version: 0.1
+## SavedVariables: SRVars
+## SavedVariablesPerCharacter: SRVars
+## OptionalDeps: SharedMedia
+## RequiredDeps:
+## Interface: 100002
+## X-Interface: 100002
+
+SpeedRacer.lua
